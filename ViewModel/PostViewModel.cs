@@ -2,6 +2,7 @@
 
 namespace AzureApi.ViewModel
 {
+
     public class PostViewModel
     {
         public int PostId { get; set; }
